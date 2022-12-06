@@ -1,5 +1,7 @@
 package com.home.tongia;
 
+import com.home.tongia.TreeNode;
+
 public class SampleTree {
 
     public TreeNode getSampleTree(){
